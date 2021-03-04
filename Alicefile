@@ -1,0 +1,5 @@
+#!/bin/bash
+REPO="krisnova"
+NAME="novaprism"
+TAG="latest"
+SHA="$(git rev-parse HEAD)"
